@@ -1,0 +1,4 @@
+For words with suffix, for example - 'resentment' the stem turns out to be 'resent', which is accurate.
+Although for words with a prefix - 'unhappy', the stem remains as 'unhappi'. The explanation for this is, adding a prefix to a word can change the meaning or the semantics of the word. Stem for 'unhappy' can't possible be 'happi' since the meaning is contradictory to what we expect. Hence, stemming of words with prefix left us with an unexpected result and proving that the stemmers work accurately. 
+
+						- Piyush Agrawal
